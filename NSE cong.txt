@@ -1,0 +1,10 @@
+https://www.nseindia.com/api/equity-stockIndices?index=NIFTY%2050
+
+
+accept-encoding gzip, deflate, b
+
+en-US,en;q=0.7
+
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+
+bm_sv=121C2AECC522C5834C865ABB49F16361~YAAQvidzaE0iJwKIAQAAUIf7LRMhMlF+QQLBHs5feJnVIaX95fzOOL4nET9X4Pda0UnGEze+KRFBKwNdXf1KZ7k/ts1mS+xNuAKb0vyF0Wr6oADY4JEqpE43RvnvkO/i9PZ64OLqLD8RRBnNBGsdIujFcgSeebcDmNIswxzSMWrNUsDlYoxbCWM15vgPe9rAMSWKZkXvH6Zo0OOOu7Chvp/2YrpWfh12T+PKR0bh2F3g2s9qqreKDSb7ana9oMsy/EeV~1
